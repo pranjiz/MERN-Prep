@@ -1,1 +1,1 @@
-Starting from the basics we deep dive into complete MERN Stack preparation, from basics to advanced learning.
+Complete revision of the MERN Stack, starting from the fundamentals and progressing to advanced concepts.
